@@ -14,7 +14,7 @@ const RakhiHero = () => {
             photos, and words from the heart.
           </p>
           <div className="flex items-center gap-4">
-            <a href="#gallery"><Button variant="hero" size="lg">Add Our Photos</Button></a>
+            <a href="#gallery"><Button variant="hero" size="lg">Look At Our Photos</Button></a>
             <a href="#letter" className="underline underline-offset-4 hover:opacity-90">Read My Letter</a>
           </div>
         </div>
